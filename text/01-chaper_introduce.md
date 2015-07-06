@@ -6,7 +6,7 @@ This manual describes how to use RT-Thread.
 
 ## Software Structure of RT-Thread ##
 
-![RT-Thread Software Structure](img/System_Arch.png)
+![RT-Thread Software Structure](https://github.com/hduffddybz/rtthread_manual_english/raw/master/img/System_Arch.png)
 
 RT-Thread is a real-time operating system divided by different layers, it contains:
 
